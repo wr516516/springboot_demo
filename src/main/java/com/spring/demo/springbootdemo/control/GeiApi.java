@@ -11,6 +11,6 @@ public class GeiApi {
     @GetMapping("get")
     @ResponseBody
     public String getInfo() {
-        return "线路畅通";
+        return "第一次提交测试";
     }
 }
