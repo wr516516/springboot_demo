@@ -11,6 +11,6 @@ public class GeiApi {
     @GetMapping("get")
     @ResponseBody
     public String getInfo() {
-        return "第一次提交测试";
+        return "在git添加webhooks后的第一次提交";
     }
 }
