@@ -1,0 +1,214 @@
+{
+  "pageCode": null,
+  "pageId": null,
+  "positionList": [
+    {
+      "positionCode": "CESHI_20210121",
+      "configModel": {
+        "configTag": "2764315aa012b21c",
+        "renderParams": {},
+        "spmId": null,
+        "scm": "0.0.0.0.0.0:0.CESHI_20210121.0.0",
+        "logBizType": "ucdp",
+        "realtimeReport": 0,
+        "extInfoMap": {
+          "traceId": "1e2d46101611225519276112547520",
+          "positionInfo": "{\"__sortInfo\":{\"param\":{\"period\":\"24\"},\"type\":\"stableRandom\"},\"__groupingInfo\":{},\"__viewStrategyInfo\":{\"param\":{\"$ref\":\"$.\\\\_\\\\_sortInfo.param\"},\"id\":4000003,\"type\":\"stableRandom\",\"extInfo\":\"{\\\"enableMaterialWeight\\\":false}\"}}",
+          "ucdpIp": "11.166.156.75",
+          "moreItems": null,
+          "analysis": null
+        }
+      },
+      "logModel": null,
+      "dataModel": {
+        "extInfoMap": {},
+        "dataTag": "6168e741c7577fe0"
+      },
+      "creativeList": [
+        {
+          "creativeCode": "ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa",
+          "creativeId": "27011559",
+          "configModel": {
+            "configTag": null,
+            "renderParams": {
+              "materialInfo": "{\"product_feature\":\"\",\"product_weight\":0,\"element_meta\":{},\"__extInfo\":{},\"ext_info\":{},\"product_name\":\"ucdp_dynamic_special\"}",
+              "budgetInfo": "0",
+              "creativeInfo": "{\"creativeCode\":\"ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa\",\"bizExtInfo\":{\"interests_type\":\"other\"}}",
+              "bizExtInfo": "{\"interests_type\":\"other\",\"fixedIndex\":\"-1\"}"
+            },
+            "spmId": null,
+            "logBizType": "ucdp",
+            "realtimeReport": 0,
+            "extInfoMap": {
+              "deliverGroupCode": "2202101210002083931"
+            }
+          },
+          "dataModel": {
+            "contentId": "ucdp_dynamic_special",
+            "contentType": "STOCK",
+            "contentSubType": "",
+            "tags": "{}",
+            "targetUrl": "",
+            "extInfoMap": {
+              "product_feature": "",
+              "product_weight": "0",
+              "element_meta": "{}",
+              "__extInfo": "{}",
+              "interests_type": "other",
+              "ext_info": "{}",
+              "product_name": "ucdp_dynamic_special",
+              "fixedIndex": "-1"
+            }
+          },
+          "logModel": {
+            "logInfo": {
+              "deliverPlanId": "25005460",
+              "card_index": "1",
+              "positionDomainId": "-",
+              "objectCode": "-",
+              "positionType": "PRODUCT",
+              "strategySubType": "-",
+              "ob_category": "",
+              "sysFlag": "3",
+              "budgetBizId": "null",
+              "deliverApplyType": "-",
+              "deliverLineId": "null",
+              "ob_subtype": "",
+              "creativeCode": "ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa",
+              "contentId": "ucdp_dynamic_special",
+              "positionCode": "CESHI_20210121",
+              "pid": "464000681",
+              "landingPageId": "",
+              "ob_id": "ucdp_dynamic_special",
+              "objectType": "-",
+              "cdpGroupId": "2202101210002083931",
+              "promoBizLineId": "null",
+              "ob_type": "STOCK",
+              "isProduct": "",
+              "scm": "a1006.ucdpcore.creative.ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa.1e2d46101611225519276112547520.-.2202101210002083931.1202101200002051613.CESHI_20210121.-.null.-",
+              "deliverBuCode": "-",
+              "groupCode": "2202101210002083931",
+              "sam_item": "",
+              "positionBuCode": "-",
+              "newScm": "a1006.ucdpcore.creative.ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa.1e2d46101611225519276112547520.-.2202101210002083931.1202101200002051613.CESHI_20210121.-.null.-",
+              "deliverDomainId": "-",
+              "scm_item": "",
+              "entityId": "19.ucdp..ucdp_dynamic_special.",
+              "buCode": "",
+              "planCode": "1202101200002051613",
+              "promoids": null,
+              "reqId": "1e2d46101611225519276112547520",
+              "bizTargetId": "-",
+              "ucdp_monitor": "-.-.-.CESHI_20210121.PRODUCT.1202101200002051613.2202101210002083931.ucdp_dynamic_special|STOCK||-1|8c8f1bb79f564ae3a84476173ab311b17657c1178c69bfc2910b5dc1b4e5bcfa.-.-.-.-.null.-.-",
+              "campaign": "1202101200002051613",
+              "cdpPlanId": "1202101200002051613",
+              "fag_id": "1",
+              "deliverGroupId": "25006564",
+              "promoBizDomainId": "",
+              "space_id": "CESHI_20210121",
+              "positionLineId": "-",
+              "adgroup": "2202101210002083931"
+            }
+          }
+        },
+        {
+          "creativeCode": "20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6",
+          "creativeId": "27011560",
+          "configModel": {
+            "configTag": null,
+            "renderParams": {
+              "materialInfo": "{\"product_weight\":0,\"element_meta\":{},\"__extInfo\":{},\"ext_info\":{},\"product_name\":\"海富通均衡甄选混合C\"}",
+              "budgetInfo": "0",
+              "creativeInfo": "{\"creativeCode\":\"20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6\",\"bizExtInfo\":{\"interests_type\":\"other\"}}",
+              "bizExtInfo": "{\"interests_type\":\"other\",\"fixedIndex\":\"-1\"}"
+            },
+            "spmId": null,
+            "logBizType": "ucdp",
+            "realtimeReport": 0,
+            "extInfoMap": {
+              "deliverGroupCode": "2202101210002083931"
+            }
+          },
+          "dataModel": {
+            "contentId": "20201223000230030000000000035853",
+            "contentType": "FUND",
+            "contentSubType": "",
+            "tags": "{}",
+            "targetUrl": "",
+            "extInfoMap": {
+              "product_weight": "0",
+              "element_meta": "{}",
+              "__extInfo": "{}",
+              "interests_type": "other",
+              "ext_info": "{}",
+              "product_name": "海富通均衡甄选混合C",
+              "fixedIndex": "-1"
+            }
+          },
+          "logModel": {
+            "logInfo": {
+              "deliverPlanId": "25005460",
+              "card_index": "2",
+              "positionDomainId": "-",
+              "objectCode": "-",
+              "positionType": "PRODUCT",
+              "strategySubType": "-",
+              "ob_category": "",
+              "sysFlag": "3",
+              "budgetBizId": "null",
+              "deliverApplyType": "-",
+              "deliverLineId": "null",
+              "ob_subtype": "",
+              "creativeCode": "20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6",
+              "contentId": "20201223000230030000000000035853",
+              "positionCode": "CESHI_20210121",
+              "pid": "464000681",
+              "landingPageId": "",
+              "ob_id": "20201223000230030000000000035853",
+              "objectType": "-",
+              "cdpGroupId": "2202101210002083931",
+              "promoBizLineId": "null",
+              "ob_type": "FUND",
+              "isProduct": "",
+              "scm": "a1006.ucdpcore.creative.20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6.1e2d46101611225519276112547520.-.2202101210002083931.1202101200002051613.CESHI_20210121.-.null.-",
+              "deliverBuCode": "-",
+              "groupCode": "2202101210002083931",
+              "sam_item": "",
+              "positionBuCode": "-",
+              "newScm": "a1006.ucdpcore.creative.20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6.1e2d46101611225519276112547520.-.2202101210002083931.1202101200002051613.CESHI_20210121.-.null.-",
+              "deliverDomainId": "-",
+              "scm_item": "",
+              "entityId": "19.ucdp..20201223000230030000000000035853.",
+              "buCode": "",
+              "planCode": "1202101200002051613",
+              "promoids": null,
+              "reqId": "1e2d46101611225519276112547520",
+              "bizTargetId": "-",
+              "ucdp_monitor": "-.-.-.CESHI_20210121.PRODUCT.1202101200002051613.2202101210002083931.20201223000230030000000000035853|FUND||-1|7da925c7f78c72bbf54f480da0457238d6ece425f88fb63ac8ec7be9d3e689f6.-.-.-.-.null.-.-",
+              "campaign": "1202101200002051613",
+              "cdpPlanId": "1202101200002051613",
+              "fag_id": "1",
+              "deliverGroupId": "25006564",
+              "promoBizDomainId": "",
+              "space_id": "CESHI_20210121",
+              "positionLineId": "-",
+              "adgroup": "2202101210002083931"
+            }
+          }
+        }
+      ],
+      "success": true,
+      "resultCode": null,
+      "resultDesc": null,
+      "resultView": null
+    }
+  ],
+  "extInfoMap": {
+    "traceId": "1e2d46101611225519276112547520",
+    "ucdpcoreIp": "11.166.156.75"
+  },
+  "success": true,
+  "resultCode": null,
+  "resultDesc": null,
+  "resultView": null
+}

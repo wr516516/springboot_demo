@@ -1,2 +1,9 @@
 server:
-  port: 8008
+    port: 32880
+
+logging:
+  file:
+    name: woro.log
+
+  level:
+    root: info
