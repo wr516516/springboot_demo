@@ -1,4 +1,4 @@
 # 我是注释
 [com.spring.demo.springbootdemo.control]
-GeiApi.getInfo = 0 1 12 * *
-
+GeiApi.getInfo = 0 10 00 * * ?
+#GeiApi.test = * * * * * ?

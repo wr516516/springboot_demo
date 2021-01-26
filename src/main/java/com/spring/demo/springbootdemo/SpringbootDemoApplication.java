@@ -10,7 +10,7 @@ public class SpringbootDemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootDemoApplication.class, args);
         //支持秒级别定时任务
-//        CronUtil.setMatchSecond(true);
+        CronUtil.setMatchSecond(true);
         CronUtil.start();
 
     }

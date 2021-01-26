@@ -55,4 +55,8 @@ class SpringbootDemoApplicationTests {
 
     }
 
+    @Test
+    public void sendMail(){
+
+    }
 }
